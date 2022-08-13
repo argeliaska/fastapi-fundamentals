@@ -1,1 +1,2 @@
+# install fatapi and all it's dependencies like uvicorn
 fastapi[all] 
